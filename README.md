@@ -4,7 +4,7 @@
 <img src="https://github.com/git4arduino/dht20_dht22/blob/d0f43849202036c1ab235e00fe2c61d0599a0060/12_dht20unddht22_verdrahtung.jpg" width="400">
 
 ## Wiring Arduino Uno
-<img src="https://github.com/git4arduino/dht20_dht22/blob/9fa77d4c1cb9183ba0531071b058b55b10b1e592/16_dht20_dht22_arduinouno_verdrahtung.jpg" width="400">
+<img src="https://github.com/git4arduino/dht20_dht22/blob/ccd1259c82e9dd6d4621f89cf06d21ee0dc168fb/16_dht20_dht22_arduinouno_verdrahtung.jpg" width="400">
 
 
 ## git commands
